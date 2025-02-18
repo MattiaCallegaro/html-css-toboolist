@@ -3,3 +3,47 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+header{
+    padding: 20px 0px;
+    height: 100px;
+    border-bottom: 1px solid white;
+    background-color: rgb(254, 190, 190);
+}
+
+.w-60{
+    width: 60px;
+}
+
+.inline-block{
+    display: inline-block;
+}
+
+.v-align-middle{
+    vertical-align: middle;
+}
+
+img{
+    margin-left: 25px;
+}
+
+body{
+    background-color: rgb(245, 196, 132);
+}
+
+.container{
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.content{
+    background-color: aqua;
+    margin-top: 200px;
+    padding: 20px;
+}
+
+
+
+
+
+
